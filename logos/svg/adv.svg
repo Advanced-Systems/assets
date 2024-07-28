@@ -6,7 +6,7 @@
    version="1.1"
    id="svg1231"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   sodipodi:docname="adv.svg"
+   sodipodi:docname="favicon.svg"
    inkscape:export-xdpi="720"
    inkscape:export-ydpi="720"
    inkscape:export-filename="..\png\adv.png"
@@ -107,11 +107,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="60.356614"
-     inkscape:cy="44.572981"
+     inkscape:zoom="7.919596"
+     inkscape:cx="34.850263"
+     inkscape:cy="25.569486"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g950"
      showgrid="false"
      units="px"
      inkscape:window-width="3200"
@@ -195,38 +195,6 @@
      inkscape:label="badge-v3"
      style="display:inline"
      transform="translate(-175.9543,-339.4917)">
-    <text
-       xml:space="preserve"
-       id="text970"
-       style="font-style:normal;font-weight:normal;font-size:141.111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect972);fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.12000001,0,0,0.12000001,160.07292,348.57673)"><tspan
-         x="92.603516"
-         y="147.58089"
-         id="tspan6"><tspan
-           dx="0 65.087273 27.304855 64.028908"
-           style="font-size:105.833px"
-           id="tspan5">blog</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text984"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect986);fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.12000001,0,0,0.12000001,160.07292,348.57673)" />
-    <text
-       xml:space="preserve"
-       id="text928"
-       style="font-style:normal;font-weight:normal;font-size:141.111px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect950);fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.12000001,0,0,0.12000001,160.07292,346.21335)"><tspan
-         x="92.603516"
-         y="147.58089"
-         id="tspan8"><tspan
-           dx="0 65.087273 27.304855 64.028908"
-           style="font-size:105.833px"
-           id="tspan7">blog</tspan></tspan></text>
-    <text
-       xml:space="preserve"
-       id="text930"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect952);fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.12000001,0,0,0.12000001,160.07292,346.21335)" />
     <g
        id="g950"
        transform="translate(0.00638205,-0.78033325)">
@@ -242,15 +210,16 @@
            id="path936"
            sodipodi:nodetypes="ccccc" />
         <path
-           id="path932"
-           style="fill:#202020;fill-opacity:0.992157;stroke:none;stroke-width:0.03175px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 188.64792,340.27203 v 10.4775 l -5.23876,-5.23875 -1.58749,-1.5875 -2.24508,2.24507 1.5875,1.5875 5.21619,5.21618 h -10.43236 v 3.175 h 15.87499 v -15.875 z" />
-        <path
            style="fill:#641220;fill-opacity:1;stroke:none;stroke-width:0.03175px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 207.69792,356.14703 h -2.54001 c 0,-12.7 -10.16,-12.7 -10.16,-12.7 v -3.175 c 0,0 12.70001,0 12.70001,15.875 z"
            id="path938"
            sodipodi:nodetypes="ccccc" />
       </g>
+      <path
+         id="path932"
+         style="display:inline;fill:#202020;fill-opacity:0.992157;stroke:none;stroke-width:0.03175px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 188.64792,340.27203 v 10.4775 l -5.23876,-5.23875 -1.58749,-1.5875 -2.24508,2.24507 1.5875,1.5875 5.21619,5.21618 h -10.43236 v 3.175 h 15.87499 v -15.875 z"
+         transform="translate(-1.2374999e-6,1.2566948e-5)" />
       <path
          style="fill:url(#linearGradient954);fill-opacity:1;stroke:none;stroke-width:0.03175px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 181.88516,343.98678 6.82625,6.82625 0.0301,2.21588 -2.29772,0.007 -6.80369,-6.80368 z"
